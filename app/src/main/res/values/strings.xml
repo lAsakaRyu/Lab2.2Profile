@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab2.2Profile</string>
+    <string name="lblName">Name : </string>
+    <string name="lblEmail">Email : </string>
+    <string name="lblButtonUpdate">Update Profile</string>
+    <string name="hintName">Name</string>
+    <string name="hintEmail">Email</string>
+    <string name="lblButtonSave">Save</string>
+    <string name="descWeb">Web</string>
+    <string name="descImage">ProfileImage</string>
+    <string name="descHome">Home</string>
+    <string name="descMail">Mail</string>
+    <string name="descDial">Dial</string>
+</resources>
