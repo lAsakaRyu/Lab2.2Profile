@@ -40,6 +40,16 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
     public void showWeb(View view) {
         String uri = "http://bait2073.000webhostapp.com/welcome/html";
         Intent intent = new Intent(Intent.ACTION_VIEW);
